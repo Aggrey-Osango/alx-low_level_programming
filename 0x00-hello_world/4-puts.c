@@ -1,8 +1,10 @@
-#include <stdio.h>
-
+#include <stdio.h> 
 
 /*
- * Puts functions that is used to print things in one line 
+ * function_name => main, the main entry point of a program
+ * @parameters => void, it does not take any parameter
+ *
+ * Return 0: when the code is executed successfully it returns the code 0
  * */
 int main(void)
 {
